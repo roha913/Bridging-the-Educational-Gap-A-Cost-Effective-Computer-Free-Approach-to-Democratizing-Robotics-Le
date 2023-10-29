@@ -1,4 +1,5 @@
-float threshold_avg = 0.0;
+float threshold_avg = 0.0;//change as needed. This is the threshold between what the robot considers
+//"dark" and "light" from the photoresistors
 
 
 //#include "IRLremote.h"
